@@ -6,7 +6,14 @@
   Igualdad de oportunidades
   
 # 3) Quien representa el Interes Publico?
-  a) Mayoria
-  ## Problemas
+Métodos para la eleccion
+  ## Mayoria
+   Problemas de las mayorias
   a) Minorias
-  b) 
+  b) Cambio en la identidad de la mayoria
+  ## Caracteristicas de grupos
+  Necesidades, género, características étnicas
+  ## Efecto 
+  ## Emergencia 
+  ## Dictador
+  ## Consenso
