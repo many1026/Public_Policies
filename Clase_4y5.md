@@ -12,7 +12,7 @@ Viabilidad: Fue la mejor decisión? Es VIABLE esta solucion?
 ## Externailidades, accion preventiva y bienes publicas
 Mitigacion del problema global
 Externalidades positiva
-- Accion                      Resto 
-    Sí                No
-    Sí                Sí
-    No                Sí
+- Accion                      -Resto 
+-    Sí                No
+-    Sí                Sí
+-    No                Sí
