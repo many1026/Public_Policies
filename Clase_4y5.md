@@ -11,6 +11,8 @@ Viabilidad: Fue la mejor decisión? Es VIABLE esta solucion?
 # CLASE 4
 ## Externailidades, accion preventiva y bienes publicas
 Mitigacion del problema global
-Externalidades postiva
+Externalidades positiva
 - Accion                      Resto 
-
+    Sí                No
+    Sí                Sí
+    No                Sí
